@@ -1,2 +1,4 @@
 this is a git.
 this is not a git
+
+adding new line

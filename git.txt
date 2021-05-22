@@ -1,0 +1,20 @@
+git init
+
+git remote add origin link
+
+git add . / git add file/folder
+
+git commit -m "adding"
+
+git push origin branchname
+
+git branch
+
+git checkout -b branchname
+
+git checkout branchname
+
+git merge branchname
+
+git pull
+
